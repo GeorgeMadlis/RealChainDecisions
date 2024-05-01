@@ -1,0 +1,8 @@
+topic: 'kafta_topic_2'
+kafka_path: '/Users/jurisildam/servers/kafka_2.13-3.7.0'
+mu_one: 0
+sigma_one: 0.1
+mu_two: 3.5
+sigma_two: 0.2
+n_timeseries: 300
+
